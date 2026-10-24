@@ -1,0 +1,6 @@
+2026-01-01 INFO Connected to gateway
+2026-01-01 ERROR GATEWAY DISABLED (code 4014)
+2026-01-01 WARNING Skipping duplicate reply
+2026-01-01 WARNING Skipping duplicate reply
+2026-01-01 WARNING RATE LIMITED: backing off REST for 30s.
+2026-01-01 DEBUG private text that should never appear in the report: DEMO_PRIVATE_CANARY

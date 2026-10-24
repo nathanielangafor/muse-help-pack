@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.log
+!examples/synthetic.log
+report.md
+report.json
+.env*
+config.yaml
